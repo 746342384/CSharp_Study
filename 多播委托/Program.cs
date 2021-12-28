@@ -19,6 +19,11 @@ namespace 多播委托
             method += Method1;
             method += Method1;
             method();
+            Delegate[] delegates = method.GetInvocationList();
+            foreach (var item in delegates)
+            {
+                item.DynamicInvoke();
+            }
             Console.ReadLine();
         }
 
