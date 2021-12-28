@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action", "ActionAndFunc\Act
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func", "Func\Func.csproj", "{8BE5F060-D76E-4244-B5B3-EE442D0DC78D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "利用委托升级冒泡排序", "利用委托升级冒泡排序\利用委托升级冒泡排序.csproj", "{1BB9E0DC-84E0-4585-A779-E6FAF7B96947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多播委托", "多播委托\多播委托.csproj", "{28BE80E1-A53D-4459-91A6-71B967628284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{8BE5F060-D76E-4244-B5B3-EE442D0DC78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE5F060-D76E-4244-B5B3-EE442D0DC78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE5F060-D76E-4244-B5B3-EE442D0DC78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB9E0DC-84E0-4585-A779-E6FAF7B96947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB9E0DC-84E0-4585-A779-E6FAF7B96947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB9E0DC-84E0-4585-A779-E6FAF7B96947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB9E0DC-84E0-4585-A779-E6FAF7B96947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BE80E1-A53D-4459-91A6-71B967628284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BE80E1-A53D-4459-91A6-71B967628284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BE80E1-A53D-4459-91A6-71B967628284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BE80E1-A53D-4459-91A6-71B967628284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
