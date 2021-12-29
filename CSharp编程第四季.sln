@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda表达式", "Lambda�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event事件", "Event事件\Event事件.csproj", "{FCB21CB3-D878-4CE5-AEB0-7FD4331AEA00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "反射", "反射\反射.csproj", "{8432D0E5-B92C-4A0D-AC4A-19928B1EBD2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FCB21CB3-D878-4CE5-AEB0-7FD4331AEA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB21CB3-D878-4CE5-AEB0-7FD4331AEA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB21CB3-D878-4CE5-AEB0-7FD4331AEA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8432D0E5-B92C-4A0D-AC4A-19928B1EBD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8432D0E5-B92C-4A0D-AC4A-19928B1EBD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8432D0E5-B92C-4A0D-AC4A-19928B1EBD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8432D0E5-B92C-4A0D-AC4A-19928B1EBD2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
