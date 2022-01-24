@@ -5,8 +5,6 @@ using System.Diagnostics;
 namespace 特性
 {
 
-
-
     class Program
     {
         [Obsolete]
