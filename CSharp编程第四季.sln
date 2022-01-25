@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "特性", "特性\特性.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "冒泡排序", "冒泡排序\冒泡排序.csproj", "{BBB386A8-2F87-423F-9448-D76A6D71F9E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "InsertSort\InsertSort.csproj", "{988183F8-4BB6-48B6-80E9-7F939C7EF805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{02243207-5E70-4856-B332-CBD68F4346BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{BBB386A8-2F87-423F-9448-D76A6D71F9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB386A8-2F87-423F-9448-D76A6D71F9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB386A8-2F87-423F-9448-D76A6D71F9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988183F8-4BB6-48B6-80E9-7F939C7EF805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988183F8-4BB6-48B6-80E9-7F939C7EF805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988183F8-4BB6-48B6-80E9-7F939C7EF805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988183F8-4BB6-48B6-80E9-7F939C7EF805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02243207-5E70-4856-B332-CBD68F4346BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02243207-5E70-4856-B332-CBD68F4346BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02243207-5E70-4856-B332-CBD68F4346BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02243207-5E70-4856-B332-CBD68F4346BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
