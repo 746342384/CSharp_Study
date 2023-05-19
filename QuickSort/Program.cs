@@ -9,7 +9,9 @@ namespace QuickSort
             int[] arr = { 9, 8, 7, 4, 6, 99, 5, 1, 3, 0 };
             QuickSort(arr, 0, arr.Length - 1);
             foreach (var item in arr)
+            {
                 Console.WriteLine(item + " ");
+            }
             Console.ReadLine();
 
         }
