@@ -1,6 +1,6 @@
 namespace 二叉树;
 
-public class TreeNodeEx
+public static class TreeNodeEx
 {
     public static int TreeNodeCounts(TreeNode? root)
     {
